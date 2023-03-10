@@ -1,0 +1,6 @@
+.venv
+.vscode
+.env
+
+wav2lip_gan.pth
+wav2lip.pth
